@@ -69,7 +69,7 @@ export default function Home() {
               style={{ "--delay": "0.1s" }}
             >
               <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-400 to-yellow-400 bg-clip-text text-transparent pb-4 mb-4">
-                DeepGaze
+                PreLearn
               </h1>
               <h2 className="text-xl md:text-2xl font-medium text-gray-700 mb-6">
                 Revolutionizing Learning with AI-Powered Eye Tracking to Detect
@@ -118,7 +118,7 @@ export default function Home() {
         <div className="max-w-full mx-auto">
           <div className="animate-item" style={{ "--delay": "0.1s" }}>
             <h2 className="text-3xl font-bold text-center text-blue-600 mb-4">
-              About DeepGaze
+              About PreLearn
             </h2>
             <div className="w-24 h-1 bg-yellow-400 mx-auto mb-12"></div>
           </div>
@@ -224,7 +224,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="animate-item" style={{ "--delay": "0.1s" }}>
             <h2 className="text-3xl font-bold text-center text-cyan-400 mb-4">
-              DeepGaze Features
+              PreLearn Features
             </h2>
             <div className="w-24 h-1 bg-cyan-500 mx-auto mb-12"></div>
           </div>
@@ -507,7 +507,7 @@ export default function Home() {
                   height={60}
                   className="mr-3"
                 />
-                <h3 className="text-2xl font-bold">DeepGaze</h3>
+                <h3 className="text-2xl font-bold">PreLearn</h3>
               </div>
               <p className="text-gray-400">
                 Revolutionizing learning with AI-powered eye tracking technology
